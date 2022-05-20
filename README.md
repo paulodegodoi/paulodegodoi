@@ -1,4 +1,4 @@
-### Olá! Seja muito bem-vind@ | Hi! Be very welcome👋
+### Olá! Seja muito bem-vindo | Hi! Be very welcome👋
 
 [![Portfolio](https://img.shields.io/website?label=paulodegodoi.github.io/portfolio/&style=for-the-badge&url=https://paulodegodoi.github.io/portfolio/)](https://paulodegodoi.github.io/portfolio/)
 [![LinkedIng](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
