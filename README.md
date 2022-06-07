@@ -1,19 +1,24 @@
-### Olá! Seja muito bem-vindo | Hi! Be very welcome👋
+## Olá! Seja muito bem-vindo👋
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnologia e Desenvolvimento Web. Aprendendo a cada dia, um pouco mais do mundo dev.
 
+<div>
+    <a href="https://github.com/paulodegodoi">
+    <img width="58%" src="https://github-readme-stats.vercel.app/api?username=paulodegodoi&show_icons=true&theme=react"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulodegodoi&repo=clicksoft-hubusca&theme=react"/>
+</div>
+<br />
+<div>
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="50px"/>
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="TypeScript" width="50px"/>
+    <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" width="50px"/>
+    <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
+    <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html" width="50px"/>
+    <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
+</div>
+
+#### Portfólio / LinkedIn / Gmail
 [![Portfolio](https://img.shields.io/website?label=paulodegodoi.github.io/portfolio/&style=for-the-badge&url=https://paulodegodoi.github.io/portfolio/)](https://paulodegodoi.github.io/portfolio/)
 [![LinkedIng](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/paulodegodoi/)
-
-![Paulo Godoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodegodoi&show_icons=true&theme=radical)
-
-### Technologies I use in my day
-<div>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-</div>
-<br>
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnologia e Desenvolvimento Web. Aprendendo a cada dia um pouco mais de Front-End
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](https://paulogodoi.sp@gmail.com)
