@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnolog
 <div>
     <a href="https://github.com/paulodegodoi">
     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=paulodegodoi&show_icons=true&theme=react"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodegodoi&layout=compact&theme=react"/>
 </div>
 <br />
 <div>
