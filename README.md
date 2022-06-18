@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnolog
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
 </div>
 
-#### Portfólio / LinkedIn / Gmail
+#### Onde estou:
 [![Portfolio](https://img.shields.io/website?label=paulodegodoi.github.io/portfolio/&style=for-the-badge&url=https://paulodegodoi.github.io/portfolio/)](https://paulodegodoi.github.io/portfolio/)
 [![LinkedIng](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/paulodegodoi/)
