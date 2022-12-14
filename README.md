@@ -11,7 +11,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnolog
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="50px"/>
     <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="TypeScript" width="50px"/>
     <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" width="50px"/>
-    <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
+    <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
     <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html" width="50px"/>
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
 </div>
