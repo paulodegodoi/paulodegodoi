@@ -3,11 +3,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnolog
 
 <div>
     <a href="https://github.com/paulodegodoi">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulodegodoi&show_icons=true&theme=react"/>
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=paulodegodoi&show_icons=true&theme=react"/>
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodegodoi&layout=compact&theme=react"/>
 </div>
 <br />
-<div>
+<div align="center">
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="50px"/>
     <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="TypeScript" width="50px"/>
     <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" width="50px"/>
@@ -16,9 +16,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnolog
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
 </div>
 
-#### Onde estou:
-[![Portfolio](https://img.shields.io/website?label=paulodegodoi.github.io/portfolio/&style=for-the-badge&url=https://paulodegodoi.github.io/portfolio/)](https://paulodegodoi.github.io/portfolio/)
-[![LinkedIng](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/paulodegodoi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://paulogodoi.sp@gmail.com)
+<hr />
+    
+<div align="center">
+<a href="https://instagram.com/godoi__paulo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:paulogodoi.sp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulodegodoi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
