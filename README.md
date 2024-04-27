@@ -1,5 +1,5 @@
 ## Olá! Seja muito bem-vindo👋
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnologia e Desenvolvimento Web. Aprendendo a cada dia, um pouco mais do mundo dev.
+Sou Desenvolvedor .Net Júnior, formado em Análise e Desenvolvimento de Sistemas. Estar em constante evolução é o que me motiva dia a dia.
 
 <div>
     <a href="https://github.com/paulodegodoi">
@@ -8,12 +8,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Tecnolog
 </div>
 <br />
 <div align="center">
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="50px"/>
-    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="TypeScript" width="50px"/>
-    <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" width="50px"/>
     <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
-    <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html" width="50px"/>
-    <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css" width="50px"/>
+    <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="React" width="50px"/>
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="TypeScript" width="50px"/>
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Boostrap" width="50px" />
+    
+    
 </div>
 
 <hr />
